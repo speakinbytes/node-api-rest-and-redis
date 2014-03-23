@@ -6,6 +6,8 @@ Whats hot now service with redis. Time to expire.
 
 You need install node.js, MongoDB and redis.
 
+You can read http://speakinbytes.com/2014/03/node-js-redis-implementando-un-whats-hot-con-tiempo-de-expiracion/
+
 To run
 * $ npm install
 * start mongo server
